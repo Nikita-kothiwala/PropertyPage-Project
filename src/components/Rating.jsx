@@ -74,7 +74,7 @@ const Rating = () => {
           ))}
         </div>
 
-        {/* Circle Button */}
+   
         <button
           onClick={handlePrev}
           className="absolute top-1/2 -translate-y-1/2 left-0 bg-white w-10 h-10 rounded-full shadow-md flex items-center justify-center text-purple-600 hover:bg-purple-100"
